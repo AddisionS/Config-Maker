@@ -1,4 +1,3 @@
-package me.configuratemethods;
 
 import org.slf4j.Logger;
 import org.spongepowered.configurate.ConfigurationNode;
